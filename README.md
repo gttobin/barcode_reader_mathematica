@@ -16,9 +16,9 @@ The results for the ten sample images are
 
 size of images 600x400
 
-Name			          I. Diff Found	    Step	Delta
+Name			                I. Diff  Found	    Step  	Delta
 
-barcode1_mbdb.jpg   0.1			False     0.1	  0.0
+barcode1_mbdb.jpg      0.1      False      0.1      0.0
 
 barcode2_mbdb.jpg	  0.1			True			0.1	  0.0
 
@@ -37,3 +37,5 @@ barcode8_mbdb.jpg	  0.1			True			0.1	  0.0
 barcode9_mbdb.jpg	  0.1			False			0.1	  0.0
 
 barcode10_mbdb.jpg  0.1			True			0.1	  0.0
+
+Eight of the ten sample images were correctly decoded
